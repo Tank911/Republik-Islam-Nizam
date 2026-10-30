@@ -30,7 +30,7 @@ size: 700, 700
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
-BuildingIcons/C-1 Missile
+UnitIcons/C-1 Missile
   rotate: false
   xy: 0, 0
   size: 700, 700
