@@ -1,11 +1,13 @@
 [
   {
 		"name": "RNI FM Broadcast Tower",
-		"culture": 3,
+		"replaces": "Broadcast Tower",
+		"uniqueTo": "Republik Islam Nizam",
+		"culture": 6,
 		"percentStatBonus": {"culture": 33},
 		"requiredBuilding": "Museum",
 		"maintenance": 3,
 		"requiredTech": "Radio",
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["[+2 Food, +2 Science] from [Jungle] tiles [in this city]", "[+2 Science] per [3] population [in this city]", "Destroyed when the city is captured"]
 	}
 ]
