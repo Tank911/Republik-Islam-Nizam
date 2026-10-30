@@ -1,0 +1,11 @@
+[
+  {
+		"name": "RNI FM Broadcast Tower",
+		"culture": 3,
+		"percentStatBonus": {"culture": 33},
+		"requiredBuilding": "Museum",
+		"maintenance": 3,
+		"requiredTech": "Radio",
+		"uniques": ["Destroyed when the city is captured"]
+	}
+]
