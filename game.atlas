@@ -43,7 +43,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
-UnitIcons/Nuclear Missile
+UnitIcons/Indo-67 Missile
   rotate: false
   xy: 1292, 1296
   size: 100, 100
