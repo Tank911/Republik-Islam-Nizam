@@ -24,3 +24,29 @@ BuildingIcons/RNI FM Broadcast Tower
   orig: 700, 700
   offset: 0, 0
   index: -1
+
+Tak berjudul5696.png
+size: 700, 700
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+BuildingIcons/C-1 Missile
+  rotate: false
+  xy: 0, 0
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+
+ConstructionIcons.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+UnitIcons/Nuclear Missile
+  rotate: false
+  xy: 1292, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
