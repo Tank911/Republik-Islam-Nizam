@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Republik Islam Nizam",
+		"leaderName": "Nizam Ali Fikri",
+		"adjective": ["RIN"],
+		"startBias": ["Forest", "Grassland", "Plains"],
+  	"preferredVictoryType": "Scientific",
+ // "personality": "Harun al-Rashid",
+
+        "startIntroPart1": "IDK",
+        "startIntroPart2": "IDK",
+
+        "declaringWar": "The world will be more beautiful without you. Prepare for war.",
+		"attacked": "Fool! You will soon regret dearly! I swear it!",
+		"defeated": "You have won, congratulations. My palace is now in your possession, and I beg that you care well for the peacock.",
+		"denounced": "Well done, my friend. Now I look forward to our next battle even more!",
+		"introduction": "Welcome foreigner, I am Harun Al-Rashid, Caliph of the Arabs. Come and tell me about your empire.",
+		"neutralHello": "Peace be upon you.",
+		"hateHello": "Oh, it's you.",
+		"tradeRequest": "Come forth, let's do business.",
+		"outerColor": [0, 164, 0],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Islam",
+		"uniqueName": "Jawa Technocracy",
+		"uniques": ["[+1 Gold] from each Trade Route", "[+100]% [Oil] resource production"],
+		"cities": ["Jakarta","Surabaya","Bandung","Semarang","Cilegon","Serang","Tangerang","South Tangerang","Bekasi","Depok",
+			"Bogor","Sukabumi","Tasikmalaya","Cimahi","Banjar","Magelang","Surakarta","Salatiga","Semarang","Pekalongan",
+			"Tegal","Yogyakarta","Alpha City","Blitar","Kediri","Malang","Kota Batu","Probolinggo","Mojokerto","Pasuruan","Madiun","Thaloria","Ayam Baru"],
+        "spyNames": ["Solhofaat", "Khenzeer", "Zarafah", "Temsaah", "Abyadh", "Mostafa", "Yusuf", "Waddah", "Sameera", "Gamal"]
+
+    },
+]
