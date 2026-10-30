@@ -1,7 +1,7 @@
 [
   	{
 		"name": "C-1 Missile",
-    "uniqueTo": "Republik Islam Nizam",
+        "uniqueTo": "Republik Islam Nizam",
 		"unitType": "Missile",
 		"movement": 1,
 		"strength": 200,
@@ -15,7 +15,7 @@
 	},
   {
 		"name": "Indo-67 Missile",
-    "uniqueTo": "Republik Islam Nizam",
+        "uniqueTo": "Republik Islam Nizam",
 		"unitType": "Missile",
 		"movement": 1,
 		"strength": 400,
