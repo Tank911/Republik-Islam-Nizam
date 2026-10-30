@@ -11,3 +11,16 @@ NationIcons/Republik Islam Nizam
   orig: 2048, 2048
   offset: 0, 0
   index: -1
+
+Tak berjudul5695.png
+size: 700, 700
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+BuildingIcons/RNI FM Broadcast Tower
+  rotate: false
+  xy: 0, 0
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
