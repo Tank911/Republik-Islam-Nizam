@@ -4,8 +4,8 @@
 		"leaderName": "Nizam Ali Fikri",
 		"adjective": ["RIN"],
 		"startBias": ["Forest", "Grassland", "Plains"],
-  	"preferredVictoryType": "Scientific",
- // "personality": "Harun al-Rashid",
+    	"preferredVictoryType": "Scientific",
+     // "personality": "Harun al-Rashid",
 
         "startIntroPart1": "IDK",
         "startIntroPart2": "IDK",
