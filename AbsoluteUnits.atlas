@@ -1,0 +1,48 @@
+
+AbsoluteUnits.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Nizam Scientist
+  rotate: false
+  xy: 833, 1873
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Nizam Scientist-1
+  rotate: false
+  xy: 941, 1962
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Nizam Scientist-2
+  rotate: false
+  xy: 108, 1161
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Nizam Scientist-Industrial era
+  rotate: false
+  xy: 107, 281
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Nizam Scientist-Industrial era-1
+  rotate: false
+  xy: 192, 359
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Nizam Scientist-Industrial era-2
+  rotate: false
+  xy: 277, 462
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
