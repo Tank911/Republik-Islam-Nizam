@@ -43,4 +43,22 @@
 			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit"],
 		"attackSound": "machinegun"
 	},
+		{
+		"name": "Nizam Scientist",
+        "uniqueTo": "Republik Islam Nizam",
+		"replaces":	"Great Scientist",
+		"unitType": "Civilian",
+		"uniques": [
+            "Can hurry technology research",
+            "Can instantly construct a [Academy] improvement <by consuming this unit>",
+            "Is part of Great Person group [Great Person]",
+            "[This Unit] gets a name from the [Scientist] group",
+            "Great Person - [Science]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+		"civilopediaText": [
+			{
+				"text": "Back in 1980s, Scientist make that Build to more modern"
+			}
+		]
+	},
 ]
