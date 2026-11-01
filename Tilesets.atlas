@@ -4,11 +4,53 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+TileSets/FantasyHex/Tiles/Project RNI: Polder
+  rotate: false
+  xy: 1020, 1138
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Project RNI: Terrace farm
+  rotate: false
+  xy: 1060, 686
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Nizam Scientist
   rotate: false
   xy: 820, 972
   size: 32, 28
   orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Project RNI: Polder
+  rotate: false
+  xy: 933, 1183
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Project RNI: Polder-Industrial era
+  rotate: false
+  xy: 1005, 1175
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Project RNI: Polder-Pillaged
+  rotate: false
+  xy: 1077, 1121
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Project RNI: Terrace farm
+  rotate: false
+  xy: 436, 4
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Nizam Scientist
