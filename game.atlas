@@ -76,3 +76,16 @@ UnitIcons/Nizam Scientist
   orig: 700, 700
   offset: 0, 0
   index: -1
+
+Tak berjudul5713.png
+size: 700, 700
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+BuildingIcons/
+  rotate: false
+  xy: 0, 0
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
