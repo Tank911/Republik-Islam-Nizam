@@ -1,7 +1,7 @@
 [
   	{
 		"name": "Project RNI: Terrace farm",
-		"uniqueTo": "",
+		"uniqueTo": "Republik Islam Nizam",
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"food": 1,
 		"turnsToBuild": 7,
