@@ -1,6 +1,6 @@
 [
   	{
-		"name": "Project RNI: Terrace farm",
+		"name": "Project RNI - Terrace farm",
 		"uniqueTo": "Republik Islam Nizam",
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"food": 1,
@@ -16,7 +16,7 @@
         "civilopediaText": [{"text": "[See also]: [Terrace farm]", "link":"Improvement/Terrace farm"}]
 	},
 	{
-		"name": "Project RNI: Polder",
+		"name": "Project RNI - Polder",
 		"uniqueTo": "Republik Islam Nizam",
 		"food": 3,
 		"terrainsCanBeBuiltOn": ["Marsh", "Flood plains"],
