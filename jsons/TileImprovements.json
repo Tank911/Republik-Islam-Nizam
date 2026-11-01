@@ -14,5 +14,16 @@
 		"techRequired": "Plastics",
 		"shortcutKey": "F+P",
         "civilopediaText": [{"text": "[See also]: [Terrace farm]", "link":"Improvement/Terrace farm"}]
-	}
+	},
+	{
+		"name": "Project RNI: Polder",
+		"uniqueTo": "Republik Islam Nizam",
+		"food": 3,
+		"terrainsCanBeBuiltOn": ["Marsh", "Flood plains"],
+		"turnsToBuild": 7,
+		"uniques": ["Only available <if [Improvement RNI Project] is constructed>", "[+1 Production, +2 Gold] <after discovering [Computers]>", "Pillaging this improvement yields approximately [+18 Gold]"],
+		"techRequired": "Plastics",
+		"shortcutKey": "F+P",
+        "civilopediaText": [{"text": "[See also]: [Polder]", "link":"Improvement/Polder"}]
+	},
 ]
