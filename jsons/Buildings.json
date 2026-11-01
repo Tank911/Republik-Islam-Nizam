@@ -9,5 +9,13 @@
 		"maintenance": 3,
 		"requiredTech": "Radio",
 		"uniques": ["[+2 Food, +2 Science] from [Jungle] tiles [in this city]", "[+2 Science] per [3] population [in this city]", "Destroyed when the city is captured"]
-	}
+	},
+	{
+		"name": "Improvement RNI Project",
+		"uniqueTo": "Republik Islam Nizam",
+		"cost": 500,
+		"isNationalWonder": true,
+		"uniques": ["Comment [Enables construction of civilization unique improvements]", "Triggers a global alert upon completion", "Cannot be hurried"],
+		"requiredTech": "Plastics"
+	},
 ]
