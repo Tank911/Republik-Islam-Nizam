@@ -89,23 +89,3 @@ BuildingIcons/Improvement RNI Project
   orig: 700, 700
   offset: 0, 0
   index: -1
-
-Icons.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, Linear
-repeat: none
-ImprovementIcons/Project RNI: Terrace farm
-  rotate: false
-  xy: 1396, 1170
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Project RNI: Polder
-  rotate: false
-  xy: 667, 675
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
